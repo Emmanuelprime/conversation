@@ -1,0 +1,27 @@
+{
+    "ros.distro": "humble",
+    "python.autoComplete.extraPaths": [
+        "/home/prime/joy/install/joy_tester/lib/python3.10/site-packages",
+        "/home/prime/p-cue_ws/build/serial_motor_demo",
+        "/home/prime/p-cue_ws/install/serial_motor_demo/lib/python3.10/site-packages",
+        "/home/prime/p-cue_ws/install/serial_motor_demo_msgs/local/lib/python3.10/dist-packages",
+        "/home/prime/dev_ws/build/serial_motor_demo",
+        "/home/prime/dev_ws/install/serial_motor_demo/lib/python3.10/site-packages",
+        "/home/prime/dev_ws/install/serial_motor_demo_msgs/local/lib/python3.10/dist-packages",
+        "/home/prime/workspaces/aibot_ws/install/ai_bot_pkg/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/prime/joy/install/joy_tester/lib/python3.10/site-packages",
+        "/home/prime/p-cue_ws/build/serial_motor_demo",
+        "/home/prime/p-cue_ws/install/serial_motor_demo/lib/python3.10/site-packages",
+        "/home/prime/p-cue_ws/install/serial_motor_demo_msgs/local/lib/python3.10/dist-packages",
+        "/home/prime/dev_ws/build/serial_motor_demo",
+        "/home/prime/dev_ws/install/serial_motor_demo/lib/python3.10/site-packages",
+        "/home/prime/dev_ws/install/serial_motor_demo_msgs/local/lib/python3.10/dist-packages",
+        "/home/prime/workspaces/aibot_ws/install/ai_bot_pkg/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
